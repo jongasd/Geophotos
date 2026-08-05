@@ -5,5 +5,8 @@ O projeto Geophotos é um álbum fotográfico com localização que, ao tirar um
 
 ### Como rodar o projeto?
 
+(Explicar como rodar)
 
 ### Registros do funcionamento
+
+(Colocar prints ao final)
